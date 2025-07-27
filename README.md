@@ -15,6 +15,15 @@ This is a simple Streamlit web app that predicts salaries based on experience us
 - Predict salaries based on years of experience
 
 ---
+## 🛠️ Tech Stack
+
+- Python  
+- Streamlit  
+- Pandas  
+- Scikit-learn  
+- Matplotlib
+
+---
 
 ## 📂 Files in the Repo
 
@@ -27,7 +36,7 @@ This is a simple Streamlit web app that predicts salaries based on experience us
 
 ---
 
-## ▶️ How to Run Locally
+## ▶️ How to Run Locally ## 🛠️ Tech Stack
 
 ```bash
 git clone https://github.com/lal999/salary-app.git
@@ -35,29 +44,5 @@ cd salary-app
 pip install -r requirements.txt
 streamlit run salary_pred.py
 
-🛠️ Tech Stack
-Python
 
-Streamlit
 
-Pandas
-
-Scikit-learn
-
-Matplotlib
-
-📧 Contact
-Built by lal999
-Feel free to connect or reach out for collaboration.
-
-yaml
-Copy code
-
----
-
-✅ **Next Action**:  
-Go to GitHub → Open `README.md` → Edit → Paste this content → Commit.
-
----
-
-Let me know if you'd like help customizing it (e.g. adding a screenshot 
