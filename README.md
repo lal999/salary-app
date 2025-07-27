@@ -46,7 +46,9 @@ The project is a simple yet effective **Streamlit web application** that predict
 | `requirements.txt` | Required Python packages |
 | `README.md` | Project description |
 
+
 ---
+
 ## ⚙️ How It Works
 
 1. User uploads a CSV file or uses the default salary dataset.
@@ -60,12 +62,12 @@ The project is a simple yet effective **Streamlit web application** that predict
 
 ## ▶️ How to Run Locally 
 
-```bash
+```
 git clone https://github.com/lal999/salary-app.git
 cd salary-app
 pip install -r requirements.txt
 streamlit run salary_pred.py
-
+```
 ---
 
 ## 📚 References
@@ -74,7 +76,6 @@ streamlit run salary_pred.py
 - 📘 [Streamlit Documentation](https://docs.streamlit.io/)  
 - 📘 [Pandas Documentation](https://pandas.pydata.org/docs/)  
 - 📘 [Matplotlib Docs](https://matplotlib.org/stable/users/index.html)
-
 ---
 
 ## 🔮 Future Improvements
@@ -82,13 +83,15 @@ streamlit run salary_pred.py
 - Add support for multiple input features (Job Role, Location, Education, etc.)  
 - Enable saving uploaded datasets for later use  
 - Model selection between Linear, Decision Tree, or Random Forest  
-- Allow CSV export of predictions  
+- Allow CSV export of predictions
 
 ---
 
-## 👨‍💼 Author
+# 👨‍💼 Author
 
 **Palikila Likhita Reddy**  
 🎓 Final Internship Project – AI & ML Internship by Edunet Foundation with IBM  
 🌐 [GitHub](https://github.com/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/palikila-likhita-reddy-51331a29a/)
+
+
